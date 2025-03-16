@@ -11,6 +11,7 @@ API_ENDPOINTS = {
     "flux.1-pro": "flux-pro",
     "flux.1-dev": "flux-dev",
     "flux.1.1-pro": "flux-pro-1.1",
+    "flux-pro-1.1-ultra": "flux-pro-1.1-ultra",
 }
 
 
